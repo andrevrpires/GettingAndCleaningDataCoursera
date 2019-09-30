@@ -103,12 +103,12 @@ The resulting dataset variable names are below. The first two identifies the per
  jerk\
  magnitude\
  mean or standarddeviation\
- xaxis, yaxis or zaxis\
+ xaxis, yaxis or zaxis
  
  The measurement units are:
  
  gravity standard units g for the accelerometer\
- radians/second for the gyroscope.
+ radians/second for the gyroscope
   
  [1] "subject"                                                            
  [2] "activity"                                                           
