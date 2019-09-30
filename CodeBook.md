@@ -1,5 +1,5 @@
-## Human Activity Recognition Using Smartphones Dataset
-# Cleaned Version
+# Human Activity Recognition Using Smartphones Dataset
+### Cleaned Version
 
 
 This repo contains the cleaned version of the dataset found in
