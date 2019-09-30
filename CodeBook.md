@@ -1,8 +1,7 @@
-#######################################################
 ## Human Activity Recognition Using Smartphones Dataset
-## Cleaned Version
-##
-#######################################################
+# Cleaned Version
+
+
 This repo contains the cleaned version of the dataset found in
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
