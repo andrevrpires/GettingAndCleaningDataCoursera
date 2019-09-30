@@ -97,13 +97,13 @@ Having this data, the task was to create a R script called run_analysis.R that d
 
 The resulting dataset variable names are below. The first two identifies the person and the body activity being measured. The other variable names describe multiple information for each column. These pieces of information are separated in:
  
- time domain or frequency domain
- body or gravity
- accelerometer or gyroscope
- jerk
- magnitude
- mean or standarddeviation
- xaxis, yaxis or zaxis
+ time domain or frequency domain\
+ body or gravity\
+ accelerometer or gyroscope\
+ jerk\
+ magnitude\
+ mean or standarddeviation\
+ xaxis, yaxis or zaxis\
  
  The measurement units are:
  
