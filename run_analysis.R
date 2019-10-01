@@ -114,5 +114,5 @@ rm(activities,
 
 #showing and storing the result
 View(cleandata)
-setwd("..")
+#setwd("..")
 write.table(cleandata, "tidydata.txt")
