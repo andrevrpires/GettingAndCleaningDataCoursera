@@ -1,22 +1,20 @@
 #libraries
 library(dplyr)
 
-
 #set your own working directory
 #setwd("your directory goes here. then uncomment the line")
 
 ## Downloading the data
-url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+#url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
-destfile <- "getdata_projectfiles_UCI HAR Dataset.zip"
-if (!file.exists(destfile)){
-    download.file(url, destfile = destfile, method = "curl")
-    downloadtime <- date()
-  }
-unzip(destfile)
+#destfile <- "getdata_projectfiles_UCI HAR Dataset.zip"
+#if (!file.exists(destfile)){
+#    download.file(url, destfile = destfile, method = "curl")
+#    downloadtime <- date()
+#  }
+#unzip(destfile)
 
-
-setwd("UCI HAR Dataset/")
+#setwd("UCI HAR Dataset/")
 
 ## Reading files
 
