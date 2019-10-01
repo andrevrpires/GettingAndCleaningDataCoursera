@@ -97,22 +97,29 @@ Having this data, the task was to create a R script called run_analysis.R that d
 
 The resulting dataset variable names are below. The first two are
 
- [1] "subject" - identifies the person who performed the movements (1 to 30)\
- [2] "activity" - the body activity being measured (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+ [1] "subject" - identifies the person who performed the movements
+ - 1 to 30
+ [2] "activity" - the body activity being measured
+ - WALKING
+ - WALKING_UPSTAIRS
+ - WALKING_DOWNSTAIRS
+ - SITTING
+ - STANDING
+ - LAYING
  
  The other variable names describe multiple information for each column. These pieces of information are separated in:
  
-- time domain or frequency domain\
-- body or gravity\
-- accelerometer or gyroscope\
-- jerk\
-- magnitude\
-- mean or standarddeviation\
-- xaxis, yaxis or zaxis
+- time domain or frequency domain
+- body or gravity
+- accelerometer or gyroscope
+- jerk
+- magnitude
+- mean or standarddeviation
+- x axis, y axis or z axis
  
  The measurement units are:
  
-- gravity standard units g for the accelerometer\
+- gravity standard units g for the accelerometer
 - radians/second for the gyroscope
                                                 
                                                           
