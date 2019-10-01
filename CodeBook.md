@@ -95,23 +95,27 @@ Having this data, the task was to create a R script called run_analysis.R that d
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The resulting dataset variable names are below. The first two identifies the person and the body activity being measured. The other variable names describe multiple information for each column. These pieces of information are separated in:
+The resulting dataset variable names are below. The first two are
+
+ [1] "subject" - identifies the person who performed the movements (1 to 30) 
+ [2] "activity" - the body activity being measured (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
  
- time domain or frequency domain\
- body or gravity\
- accelerometer or gyroscope\
- jerk\
- magnitude\
- mean or standarddeviation\
- xaxis, yaxis or zaxis
+ The other variable names describe multiple information for each column. These pieces of information are separated in:
+ 
+- time domain or frequency domain\
+- body or gravity\
+- accelerometer or gyroscope\
+- jerk\
+- magnitude\
+- mean or standarddeviation\
+- xaxis, yaxis or zaxis
  
  The measurement units are:
  
- gravity standard units g for the accelerometer\
- radians/second for the gyroscope
-  
- [1] "subject"                                                            
- [2] "activity"                                                           
+- gravity standard units g for the accelerometer\
+- radians/second for the gyroscope
+                                                
+                                                          
  [3] "timedomain-body-accelerometer-mean-xaxis"                           
  [4] "timedomain-body-accelerometer-mean-yaxis"                           
  [5] "timedomain-body-accelerometer-mean-zaxis"                           
