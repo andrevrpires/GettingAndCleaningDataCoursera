@@ -99,6 +99,7 @@ The resulting dataset variable names are below. The first two are
 
  [1] "subject" - identifies the person who performed the movements
  - 1 to 30
+ 
  [2] "activity" - the body activity being measured
  - WALKING
  - WALKING_UPSTAIRS
