@@ -195,7 +195,7 @@ The resulting dataset variable names are below. The first two are
 [71] "frequencydomain-body-accelerometer-magnitude-standarddeviation"     
 [72] "frequencydomain-body-accelerometer-magnitude-meanfrequency"         
 [73] "frequencydomain-body-accelerometer-jerk-magnitude-mean"             
-[74] "frequencydomain-body-accelerometer-jerk-magnitude-standarddeviation"
+[74] "frequencydomain-body-accelerometer-jerk-magnitude-standarddeviation"\
 [75] "frequencydomain-body-accelerometer-jerk-magnitude-meanfrequency"    
 [76] "frequencydomain-body-gyroscope-magnitude-mean"                      
 [77] "frequencydomain-body-gyroscope-magnitude-standarddeviation"         
